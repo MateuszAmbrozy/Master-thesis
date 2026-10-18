@@ -1,0 +1,24 @@
+{
+  "seed": 123,
+  "agents": 2,
+  "size": [
+    8,
+    8
+  ],
+  "density": 0,
+  "episodes": 1,
+  "max_steps": 4,
+  "torch_threads": 1,
+  "models": {
+    "classic": "checkpoints/base/classic.pt",
+    "improved": "checkpoints/base/improved.pt"
+  },
+  "solvers": [
+    "pibt"
+  ],
+  "solver_timeout": 10,
+  "greedy": false,
+  "output": "results/eval_smoke",
+  "execution": "joint",
+  "environment_profile": "common"
+}

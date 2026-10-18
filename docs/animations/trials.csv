@@ -1,0 +1,7 @@
+map_name,variant,agents,seed,max_steps,execution,environment_profile,greedy,success,makespan,checkpoint_sha256
+maze,improved,4,123,512,sequential,historical,False,True,82,b2436c5a5a12e440412a6a0de1f9d0bf3faf0628b42cfab93579a7410ad72e0f
+maze,improved,8,123,512,sequential,historical,False,True,67,b2436c5a5a12e440412a6a0de1f9d0bf3faf0628b42cfab93579a7410ad72e0f
+room,improved,4,123,512,sequential,historical,False,True,159,78602f8f118ba94912a4e5ad807c37ee27812177a599e5f92499285ed3183110
+room,improved,8,123,512,sequential,historical,False,True,168,78602f8f118ba94912a4e5ad807c37ee27812177a599e5f92499285ed3183110
+warehouse,improved,4,123,512,sequential,historical,False,True,170,26f5556402d91780f33d3e8004d634a07e04a5dbcc540d2ee78cf1a6637e7030
+warehouse,improved,8,123,512,sequential,historical,False,True,137,26f5556402d91780f33d3e8004d634a07e04a5dbcc540d2ee78cf1a6637e7030

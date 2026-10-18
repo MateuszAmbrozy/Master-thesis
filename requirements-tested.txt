@@ -1,0 +1,6 @@
+# Direct runtime versions verified in a clean Python 3.12 environment on Linux x86_64.
+# Use requirements-lock-linux-cpu.txt for the full dependency snapshot.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+numpy==2.5.4
+gymnasium==1.4.0

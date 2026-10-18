@@ -1,0 +1,23 @@
+{
+  "classic": {
+    "training_runs": 3,
+    "mean_success_rate": 0.0,
+    "std_success_rate": 0.0,
+    "mean_of_successful_makespan_means": null,
+    "mean_seconds": 0.14402951262491115
+  },
+  "improved": {
+    "training_runs": 3,
+    "mean_success_rate": 0.0,
+    "std_success_rate": 0.0,
+    "mean_of_successful_makespan_means": null,
+    "mean_seconds": 0.23144089433299087
+  },
+  "pibt": {
+    "training_runs": 0,
+    "mean_success_rate": 1.0,
+    "std_success_rate": null,
+    "mean_of_successful_makespan_means": 5.875,
+    "mean_seconds": 0.00032453475023430656
+  }
+}

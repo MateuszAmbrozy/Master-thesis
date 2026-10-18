@@ -1,0 +1,44 @@
+{
+  "classic": {
+    "episodes": 8,
+    "successes": 0,
+    "success_rate": 0.0,
+    "success_rate_ci95": [
+      0.0,
+      0.32440756488388023
+    ],
+    "mean_seconds": 0.14308482987462412,
+    "std_seconds": 0.0014902341033460464,
+    "mean_makespan_successful": null,
+    "std_makespan_successful": null,
+    "execution": "joint"
+  },
+  "improved": {
+    "episodes": 8,
+    "successes": 0,
+    "success_rate": 0.0,
+    "success_rate_ci95": [
+      0.0,
+      0.32440756488388023
+    ],
+    "mean_seconds": 0.22924379312416931,
+    "std_seconds": 0.0014783285998208131,
+    "mean_makespan_successful": null,
+    "std_makespan_successful": null,
+    "execution": "joint"
+  },
+  "pibt": {
+    "episodes": 8,
+    "successes": 8,
+    "success_rate": 1.0,
+    "success_rate_ci95": [
+      0.6755924351161198,
+      1.0
+    ],
+    "mean_seconds": 0.00032453475023430656,
+    "std_seconds": 4.139057869893633e-05,
+    "mean_makespan_successful": 5.875,
+    "std_makespan_successful": 1.246423454758225,
+    "execution": "joint"
+  }
+}

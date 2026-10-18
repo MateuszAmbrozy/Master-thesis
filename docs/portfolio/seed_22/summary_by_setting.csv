@@ -1,0 +1,4 @@
+setting,algorithm,execution,episodes,success_rate,success_ci95_low,success_ci95_high,mean_seconds,std_seconds,mean_makespan_successful,std_makespan_successful
+0,classic,joint,8,0.0,0.0,0.32440756488388023,0.14428189549971648,0.0034278524067637003,,
+0,improved,joint,8,0.0,0.0,0.32440756488388023,0.2342930155000431,0.003816721110367702,,
+0,pibt,joint,8,1.0,0.6755924351161198,1.0,0.0003156983752887754,3.456570635206366e-05,5.875,1.246423454758225

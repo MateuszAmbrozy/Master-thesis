@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/gsartoretti/PRIMAL",
+  "commit": "b2c9709f49094c652e95d8b37bd5c3ef01c017e8",
+  "license_url": "https://raw.githubusercontent.com/gsartoretti/PRIMAL/b2c9709f49094c652e95d8b37bd5c3ef01c017e8/LICENSE.md",
+  "license_sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310",
+  "local_adaptation_revision": "unknown",
+  "note": "Upstream reference and license verified; local PyTorch adaptation is not byte-identical upstream code."
+}

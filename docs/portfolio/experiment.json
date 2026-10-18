@@ -1,0 +1,22 @@
+{
+  "training_seeds": [
+    11,
+    22,
+    33
+  ],
+  "train_episodes": 8,
+  "evaluation_seed": 1000,
+  "evaluation_episodes": 8,
+  "agents": 2,
+  "size": [
+    6,
+    6
+  ],
+  "density": 0.05,
+  "max_steps": 24,
+  "demonstration_prob": 1.0,
+  "learning_rate": 0.0001,
+  "greedy": false,
+  "torch_threads": 1,
+  "seed": 42
+}

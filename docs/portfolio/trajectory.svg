@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="316" viewBox="0 0 264 316" role="img">
+<title>PIBT reference trajectory</title>
+<rect width="100%" height="100%" rx="12" fill="#f8fafc"/>
+<rect x="24" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="60" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="24" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="24" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="60" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="60" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="24" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="60" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="96" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="24" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="60" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="132" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="24" y="168" width="36" height="36" fill="#334155" stroke="#e2e8f0"/>
+<rect x="60" y="168" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="168" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="168" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="168" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="168" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="24" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="60" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="96" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="132" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="168" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<rect x="204" y="204" width="36" height="36" fill="#ffffff" stroke="#e2e8f0"/>
+<polyline points="186.0,42.0 150.0,42.0 114.0,42.0 114.0,78.0 114.0,114.0 114.0,150.0 114.0,150.0 114.0,150.0 114.0,150.0" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round" opacity=".45"/>
+<circle cx="114.0" cy="150.0" r="12" fill="none" stroke="#2563eb" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="186.0" cy="42.0" r="9" fill="#2563eb">
+<animate attributeName="cx" values="186.0;150.0;114.0;114.0;114.0;114.0;114.0;114.0;114.0" dur="4.5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="42.0;42.0;42.0;78.0;114.0;150.0;150.0;150.0;150.0" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+<text x="186.0" y="46.0" text-anchor="middle" fill="white" font-family="sans-serif" font-size="11">1</text>
+<polyline points="222.0,114.0 186.0,114.0 150.0,114.0 150.0,150.0 150.0,186.0 150.0,222.0 114.0,222.0 78.0,222.0 42.0,222.0" fill="none" stroke="#dc2626" stroke-width="3" stroke-linejoin="round" opacity=".45"/>
+<circle cx="42.0" cy="222.0" r="12" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="3 2"/>
+<circle cx="222.0" cy="114.0" r="9" fill="#dc2626">
+<animate attributeName="cx" values="222.0;186.0;150.0;150.0;150.0;150.0;114.0;78.0;42.0" dur="4.5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="114.0;114.0;114.0;150.0;186.0;222.0;222.0;222.0;222.0" dur="4.5s" repeatCount="indefinite"/>
+</circle>
+<text x="222.0" y="118.0" text-anchor="middle" fill="white" font-family="sans-serif" font-size="11">2</text>
+<text x="24" y="286" font-family="sans-serif" font-size="14" fill="#0f172a">PIBT reference trajectory</text>
+<text x="24" y="305" font-family="sans-serif" font-size="11" fill="#475569">Starts: solid · goals: dashed · steps: 8</text></svg>

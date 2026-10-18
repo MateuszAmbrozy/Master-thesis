@@ -1,0 +1,18 @@
+{
+  "classic": {
+    "file": "checkpoints/base/classic.pt",
+    "source": "primal_improvment/fine-tuning/BAZA/clasic/checkpoint.pt",
+    "sha256": "2bd47cf9fd9f21447ab3e9a4da3927cfdee58e9184171a26758e8b5ca0f3e80f",
+    "historical_training_config": "unknown",
+    "episode": 300000,
+    "size_bytes": 59058238
+  },
+  "improved": {
+    "file": "checkpoints/base/improved.pt",
+    "source": "primal_improvment/fine-tuning/BAZA/improvment/checkpoint.pt",
+    "sha256": "eed046ca413c3d629318ec56a554164bac5ad695357dab08527ce32a2ee7dc26",
+    "historical_training_config": "unknown",
+    "episode": 253339,
+    "size_bytes": 115772149
+  }
+}

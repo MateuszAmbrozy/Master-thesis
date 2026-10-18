@@ -1,0 +1,2 @@
+include README.md LICENSE THIRD_PARTY_NOTICES.md requirements-tested.txt
+recursive-include third_party *.txt *.json

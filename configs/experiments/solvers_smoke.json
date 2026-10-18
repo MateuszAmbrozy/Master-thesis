@@ -1,0 +1,22 @@
+{
+  "seed": 123,
+  "agents": 2,
+  "size": [
+    8,
+    10
+  ],
+  "density": 0,
+  "episodes": 1,
+  "max_steps": 32,
+  "torch_threads": 1,
+  "models": {},
+  "solvers": [
+    "pibt",
+    "ca",
+    "cbs"
+  ],
+  "solver_timeout": 15,
+  "output": "results/solvers_smoke",
+  "execution": "joint",
+  "environment_profile": "common"
+}

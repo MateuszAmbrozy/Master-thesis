@@ -1,0 +1,23 @@
+{
+  "seed": 1000,
+  "episodes": 8,
+  "agents": 2,
+  "size": [
+    6,
+    6
+  ],
+  "density": 0.05,
+  "max_steps": 24,
+  "torch_threads": 1,
+  "greedy": false,
+  "models": {
+    "classic": "seed_22/classic/checkpoint.pt",
+    "improved": "seed_22/improved/checkpoint.pt"
+  },
+  "solvers": [
+    "pibt"
+  ],
+  "execution": "joint",
+  "environment_profile": "common",
+  "output": "seed_22/evaluation"
+}

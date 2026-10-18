@@ -1,0 +1,56 @@
+{
+  "classic/maze": {
+    "file": "checkpoints/fine_tuned/classic/maze.pt",
+    "source": "PRIMAL/maze/checkpoint.pt",
+    "sha256": "f7319408a03e1d6707584be811d0733c3824cf6d27ba545be4436eea9fa7341e",
+    "size_bytes": 59058238,
+    "episode": 325880,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  },
+  "classic/room": {
+    "file": "checkpoints/fine_tuned/classic/room.pt",
+    "source": "PRIMAL/room/checkpoint.pt",
+    "sha256": "9c331275ae729eb230c71fc5a494a654876ac5dc50bf43d4e43b7a39e95a6dd4",
+    "size_bytes": 59059294,
+    "episode": 7001,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  },
+  "classic/warehouse": {
+    "file": "checkpoints/fine_tuned/classic/warehouse.pt",
+    "source": "PRIMAL/warehouse/checkpoint.pt",
+    "sha256": "90b5f9c0b7af4c8c4eb56657ef0f3cf09935a1e8d04dacc24a7376076ac1dbc4",
+    "size_bytes": 59060006,
+    "episode": 7001,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  },
+  "improved/maze": {
+    "file": "checkpoints/fine_tuned/improved/maze.pt",
+    "source": "PRIMAL_IMPROVMENT/maze/checkpoint.pt",
+    "sha256": "b2436c5a5a12e440412a6a0de1f9d0bf3faf0628b42cfab93579a7410ad72e0f",
+    "size_bytes": 115772149,
+    "episode": 269922,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  },
+  "improved/room": {
+    "file": "checkpoints/fine_tuned/improved/room.pt",
+    "source": "PRIMAL_IMPROVMENT/room/checkpoint.pt",
+    "sha256": "78602f8f118ba94912a4e5ad807c37ee27812177a599e5f92499285ed3183110",
+    "size_bytes": 115773509,
+    "episode": 2750,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  },
+  "improved/warehouse": {
+    "file": "checkpoints/fine_tuned/improved/warehouse.pt",
+    "source": "PRIMAL_IMPROVMENT/warehouse/checkpoint.pt",
+    "sha256": "26f5556402d91780f33d3e8004d634a07e04a5dbcc540d2ee78cf1a6637e7030",
+    "size_bytes": 115773849,
+    "episode": 1123,
+    "weights_equal_base": false,
+    "historical_training_config": "unknown"
+  }
+}

@@ -1,0 +1,901 @@
+[
+  {
+    "source": "primal_improvment/testy/random/agenci/plots/badanie_liczby_agentow_makespan.png",
+    "destination": "research/historical/results/random/agent_count/plots/agent_count_makespan.png",
+    "source_sha256": "686f39ceb3c128c21706b8059baf287d2af1b8accfec0188860b363c113ba901",
+    "destination_sha256": "d4934e3f81deebe7dcc5081f3815e6aef4ba1106f4822c57cfa10474b635dfd7",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/plots/badanie_liczby_agentow_success_rate.png",
+    "destination": "research/historical/results/random/agent_count/plots/agent_count_success_rate.png",
+    "source_sha256": "6eb25d46ba400bebedee8c634bc5f6eabf1dc3540c541bccf775943b324bf394",
+    "destination_sha256": "a51b1a6b2ee4cfb16258fda2abac586e6fa92a06e7331c5acd8942d6bbe1cd45",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/plots/badanie_liczby_agentow_time.png",
+    "destination": "research/historical/results/random/agent_count/plots/agent_count_time.png",
+    "source_sha256": "da2cb7134366aa0169b87bf3df137cf89a5e61efe3e1df5b94d5fd532b9f888f",
+    "destination_sha256": "55b2fdb3cfb8e2823e4d187be5196cee88835282ad3fa788fb7c135f2801e3bd",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/pomiar_1/plots/badanie_liczby_agentow_makespan.png",
+    "destination": "research/historical/results/random/agent_count/run_01/plots/agent_count_makespan.png",
+    "source_sha256": "21ac3010bf33a5848f4d992cc3a768b8642e2b42cfb01db18cc25d0cac3e05cf",
+    "destination_sha256": "ab7551ca1e11aaeee236060775e987b74a39051d3ab442b07a809193d9944552",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/run_01/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/pomiar_1/plots/badanie_liczby_agentow_success_rate.png",
+    "destination": "research/historical/results/random/agent_count/run_01/plots/agent_count_success_rate.png",
+    "source_sha256": "fb862bee087c361466fb9566b1228cb7af73b8101c1ac7899a0e32960b69a2dd",
+    "destination_sha256": "c45decc00e20571ff9845d9d844808e2ae0f6b6a5e5f611419f764265057a2a0",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/run_01/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/pomiar_1/plots/badanie_liczby_agentow_time.png",
+    "destination": "research/historical/results/random/agent_count/run_01/plots/agent_count_time.png",
+    "source_sha256": "7221b9f2ff590a2ec9eee54725cf93a1dd0e8cd29c9690af2c2e63ee3a9d505e",
+    "destination_sha256": "f8f81a80ff74a7e7e88a793089791c995ba3470231c6209287a4ad1b606d1a32",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/agent_count/run_01/raw_agent_count.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/pomiar_1/surowe_badanie_liczby_agentow.csv",
+    "destination": "research/historical/results/random/agent_count/run_01/raw_agent_count.csv",
+    "source_sha256": "a44d6a84b16d86a1f895cd7973892fd3aaa6861a2119908e0465c05fd4560309",
+    "destination_sha256": "f2761fead9e036789a4734f9f4c8fec92abec8095c71978bd85300f4b83d8c97",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/surowe_badanie_liczby_agentow.csv",
+    "destination": "research/historical/results/random/agent_count/raw_agent_count.csv",
+    "source_sha256": "99bd8e66b5b79ab6ac72fba2e113dfcd95fbdc8e60cb37fd6f18a7a90457bc1d",
+    "destination_sha256": "22c98a15274eb2cf15f75270e73d42c3665bd8bdb05377319de3a558179d7580",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/agenci/test_agenci.py",
+    "destination": "research/historical/scripts/random/agent_count/evaluate_agents.py",
+    "source_sha256": "bf6ca54284c6697443d7c05d8f63a20e38de9ad2fb10f20827883c07af123d59",
+    "destination_sha256": "502f575adcffda33e46cf7339335bdd82b46e030df4ebaa7d7fafeb07d41b6de",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/random/eval_core.py",
+    "destination": "research/historical/scripts/random/eval_core.py",
+    "source_sha256": "d5d5762580efe3d87fa1aff7d061258601b75c848b9ae475e6b7365b85278224",
+    "destination_sha256": "18a734134e174e4630e338d885cc59715699f87040ae48354b659acef16c4a1a",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/random/run_all_tests.py",
+    "destination": "research/historical/scripts/random/run_all_tests.py",
+    "source_sha256": "e6afc2a9b032e1fc1b4d2a5749439fe2dce85e5805dc2d303c23fe231e0d5e8d",
+    "destination_sha256": "f0d3b7de5824253abbc8a92d7a9f41ad916383830c7386f110370102dba3780f",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/plots/badanie_wielkosci_mapy_makespan.png",
+    "destination": "research/historical/results/random/map_size/plots/map_size_makespan.png",
+    "source_sha256": "f97cf3d6d69c376e395b0416fc2f0b2b6ba3727f2a9b505b305a864a818b9638",
+    "destination_sha256": "80b3af8d6b8554d40b6bbe88d5e68b5f7fdd518d7dcbdf42dc5f28a0edc7e8e8",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/plots/badanie_wielkosci_mapy_success_rate.png",
+    "destination": "research/historical/results/random/map_size/plots/map_size_success_rate.png",
+    "source_sha256": "3b179f80c5e49a35307e24e5ba15ac6c71d458a0804d71079d78da20b0d8a62b",
+    "destination_sha256": "071255c1463a6c11059ab99277e331e0c4a641d5fb5bc72af3ec7f883cb34c7b",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/plots/badanie_wielkosci_mapy_time.png",
+    "destination": "research/historical/results/random/map_size/plots/map_size_time.png",
+    "source_sha256": "7bd8812aaae2fc248db55bc90cd21536bc9cf3d1e75c1434abb7e8b156bcac51",
+    "destination_sha256": "1614346a38499e84bc886118244de7c8d19c5b117bcb497ac5a552c44cd8ddaa",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_1/badanie_wielkosci_mapy_makespan.png",
+    "destination": "research/historical/results/random/map_size/run_01/map_size_makespan.png",
+    "source_sha256": "2a338035d2844db55cc0ae950f1c41b493baaad81815e67444c425b4822ff922",
+    "destination_sha256": "28061da953575482500e2d4ebc3d8a946e8064840a817d7143334a25c1681192",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_01/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_1/badanie_wielkosci_mapy_success_rate.png",
+    "destination": "research/historical/results/random/map_size/run_01/map_size_success_rate.png",
+    "source_sha256": "7143a99330750f38ea2465cc008e8d6fdd76df05a5db6155e2d05d9fb2d43530",
+    "destination_sha256": "596c524738428df487f68295d10cb54c04fc71ca15a3d74de7e264b60df373c7",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_01/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_1/badanie_wielkosci_mapy_time.png",
+    "destination": "research/historical/results/random/map_size/run_01/map_size_time.png",
+    "source_sha256": "68877d7ed2ebe6fcc680a134673a197407207e602ce534c39c2e2bc3d1263f6c",
+    "destination_sha256": "6df9753ec4b2508d9fe9785c58e96a9fba0c07a804616403536d8cc325941719",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_01/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_1/surowe_badanie_wielkosci_mapy.csv",
+    "destination": "research/historical/results/random/map_size/run_01/raw_map_size.csv",
+    "source_sha256": "b73a07e7369d9dceae39f4534938d04c795bbf34f01546917ea57c36166a316e",
+    "destination_sha256": "7627fa5290fe6c8d923cdad78c3cbb9ee6907e538ca9eecaf138311b29d8acc0",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_2/badanie_wielkosci_mapy_makespan.png",
+    "destination": "research/historical/results/random/map_size/run_02/map_size_makespan.png",
+    "source_sha256": "d8c7e1b139ec793ac301e3937531b4da5fe8f872bdb7da8d0896538386d3ea68",
+    "destination_sha256": "86ecf06410312fbd0d5746854c78f0b0b329218c4eaaf912e16c887085466328",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_02/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_2/badanie_wielkosci_mapy_success_rate.png",
+    "destination": "research/historical/results/random/map_size/run_02/map_size_success_rate.png",
+    "source_sha256": "1c820201d8261d60a23e3dd2d045d1a2e66b7e0dba8908b19350b7b32485b749",
+    "destination_sha256": "b1762876e4c17266ac18907d8b4e3aa5d768d35164404179bf4d628ca4dd94a8",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_02/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_2/badanie_wielkosci_mapy_time.png",
+    "destination": "research/historical/results/random/map_size/run_02/map_size_time.png",
+    "source_sha256": "7759b2a293f5e3fcd260cb794f9277b80fc46fe98ffb8c663d09988e6d75068e",
+    "destination_sha256": "52832bd501d3ba39a237f98709e7c771518f5d5a881e50debd7fb27f10eebeed",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/map_size/run_02/raw_map_size.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/pomiar_2/surowe_badanie_wielkosci_mapy.csv",
+    "destination": "research/historical/results/random/map_size/run_02/raw_map_size.csv",
+    "source_sha256": "962130bc76c28139541b87b0b5ca7d175fddff59b791bf0d2b65c8457a5ca93e",
+    "destination_sha256": "2078f4d565255f6d3d4cfbcbe8133d8848dc2370dca806aca396b1e5f50aba7d",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/surowe_badanie_wielkosci_mapy.csv",
+    "destination": "research/historical/results/random/map_size/raw_map_size.csv",
+    "source_sha256": "f2a899daff798116e8520a2d2273446f4c6bf51e7a315d1e99e93c92183b5b66",
+    "destination_sha256": "4e29f62b5590a1e286bd1ef6de752e4c9f31b0016f6930a600f4b679c8f6f6a2",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/wielkosc_mapy/test_wielkosc.py",
+    "destination": "research/historical/scripts/random/map_size/evaluate_map_size.py",
+    "source_sha256": "396129f525cb06da86eb9b8e8e99ff7f1b1e05a3fa5a1c938870c911a8df8cc5",
+    "destination_sha256": "0d1deb993e596be4af623266a127477c355e0cbbc78bf2ce16e549695c0e991d",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/plots/badanie_zageszczenia_makespan.png",
+    "destination": "research/historical/results/random/obstacle_density/plots/obstacle_density_makespan.png",
+    "source_sha256": "f66561ae5aa001bad38c3db52af5297374bd98089a5de722e98ded83696791f2",
+    "destination_sha256": "6c588dd4bb33f3ae23d054d4d0c72064a746ca7df7f16781a59dda359ab813e4",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/plots/badanie_zageszczenia_success_rate.png",
+    "destination": "research/historical/results/random/obstacle_density/plots/obstacle_density_success_rate.png",
+    "source_sha256": "0b3e657f882ae9efd31e5e6012c35d3489233abbb750c9e96c03208c619f8fd1",
+    "destination_sha256": "4a386a9ac004e5939c586cb402f79e681f70a3c335ba89059dc9c789e5dfd242",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/plots/badanie_zageszczenia_time.png",
+    "destination": "research/historical/results/random/obstacle_density/plots/obstacle_density_time.png",
+    "source_sha256": "66bbfa507f7083bf31a83bf6b1d4e7bb6461d0ff72e54c15acbda226eb87caf7",
+    "destination_sha256": "f43d57ad72e6c1b0aa9de9f5f29c13132dd87c9561c370bb67c78062282f0148",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/pomiar_1/plots/badanie_zageszczenia_makespan.png",
+    "destination": "research/historical/results/random/obstacle_density/run_01/plots/obstacle_density_makespan.png",
+    "source_sha256": "d6f528b54ed8979b448fcf40146accadabad1654166706962225f821e1c8b3b6",
+    "destination_sha256": "faadf5c799679d27b839cb4ec8b380e5787f5b7d99739aedd29dd5ed98cae3d3",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/run_01/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/pomiar_1/plots/badanie_zageszczenia_success_rate.png",
+    "destination": "research/historical/results/random/obstacle_density/run_01/plots/obstacle_density_success_rate.png",
+    "source_sha256": "5f6fe8f7a84f359b1e6105033e665ae9c42cb274e81a0f2ef67f34ad46f59168",
+    "destination_sha256": "f5438cb0db9189c498da4ce571809fbe0c9e83f83c3c3505b84eac1a84da4ffa",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/run_01/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/pomiar_1/plots/badanie_zageszczenia_time.png",
+    "destination": "research/historical/results/random/obstacle_density/run_01/plots/obstacle_density_time.png",
+    "source_sha256": "682d06f4887aae13f46f4443e23b878024acfb987e793755b2f3d6cb9fb7bdd2",
+    "destination_sha256": "f26236a282496e80acc7d9c7627213dd3d6f20cfd1c43b59b99c8428c8ed759a",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/random/obstacle_density/run_01/raw_obstacle_density.csv"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/pomiar_1/surowe_badanie_zageszczenia.csv",
+    "destination": "research/historical/results/random/obstacle_density/run_01/raw_obstacle_density.csv",
+    "source_sha256": "e5029f4c25c27212c7d20cabbda1e87bbcf5866df2e5c636fe00a63064144ca8",
+    "destination_sha256": "032616fd271b5564ab051525e4733fb1a6f37818b895d414cddf9e319243708b",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/surowe_badanie_zageszczenia.csv",
+    "destination": "research/historical/results/random/obstacle_density/raw_obstacle_density.csv",
+    "source_sha256": "0c0d5f66dc200c35e3f89d3b8ceaf0a7f241fbca15150db1ac51599318a97508",
+    "destination_sha256": "50016663e34db4bd075847ab615dffcea98952b9248c0ce397ceb4f7ae547b24",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/random/zageszczenie_przeszkod/test_zageszczenie.py",
+    "destination": "research/historical/scripts/random/obstacle_density/evaluate_obstacle_density.py",
+    "source_sha256": "9abaedc7af352ba6714c56f5fa639acc9b900d90da830ca571030c700f2ac178",
+    "destination_sha256": "a2c1af62f29c6f34575e5c5407beb786a92f9b48e8ef6bab1087db8af80e8705",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/eval_core.py",
+    "destination": "research/historical/scripts/fixed_maps/eval_core.py",
+    "source_sha256": "d38c5f930cffab7b921f0f10ffe1f24a25f01e7813f13093df94bbe3626beba6",
+    "destination_sha256": "9a10234ded3985280156d8365516bd9c78031bcabd3c143bf7d6c6d42694dbc2",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/maze-32-32-4.map",
+    "destination": "research/historical/scripts/fixed_maps/maze/maze-32-32-4.map",
+    "source_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "destination_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/plots/badanie_agenci_maze-32-32-4_makespan.png",
+    "destination": "research/historical/results/fixed_maps/maze/plots/agent_count_maze-32-32-4_makespan.png",
+    "source_sha256": "8d3c88aff0be3d4955b923f880f857ed2f60ae2a547bba76b28e60c70d8c5d40",
+    "destination_sha256": "fb39f85b182bff7791460a7935f605fb4fa4607031ef29e683be9fb2f56b1c5e",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/plots/badanie_agenci_maze-32-32-4_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/maze/plots/agent_count_maze-32-32-4_success_rate.png",
+    "source_sha256": "2acb3bc81958d5c142e03b44b949db6615d4c85149f46a5ceb1d3ef24cab0b3b",
+    "destination_sha256": "5091be14f01b84f42d1f7c8b10f56cb070335b1a8b5289cfdf06cbb49e6b436e",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/plots/badanie_agenci_maze-32-32-4_time.png",
+    "destination": "research/historical/results/fixed_maps/maze/plots/agent_count_maze-32-32-4_time.png",
+    "source_sha256": "c60c79c0a0fb1c0ead188b4d468272224aeaa14f5c52dc64247265bb7bf2f062",
+    "destination_sha256": "b28a04fb2ef036f6fa043ce95f66062efb0b15e8b41d08ca6481e3d99ef72509",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_makespan.png",
+    "destination": "research/historical/results/fixed_maps/maze/run_01/plots/agent_count_maze-32-32-4_makespan.png",
+    "source_sha256": "168f140d19bfd942e91531ef0a4364d1a2937308cb029541c437637acc1bee94",
+    "destination_sha256": "661fc4454a2f577b79544af65323e850d39eebe72de94facba107d3a5412068b",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/maze/run_01/plots/agent_count_maze-32-32-4_success_rate.png",
+    "source_sha256": "ba9759414737366c4613d4e91d1fca256c91169eec1803c3d23a2e08df98f919",
+    "destination_sha256": "c3998aeab2ef8c7b888b302797ff3f8dbe280fbd49f52ae64e16a23d0b90d03c",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_time.png",
+    "destination": "research/historical/results/fixed_maps/maze/run_01/plots/agent_count_maze-32-32-4_time.png",
+    "source_sha256": "7e1b42b93b9dadfea8d4c8e5a0e586b5a7605b149641cb6c7ff7c71dd117d007",
+    "destination_sha256": "4246686313bf55858a192447bc43eb613fedbb505cad099a6e76e84100382e6a",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/pomiar_1/surowe_badanie_agenci_maze-32-32-4.csv",
+    "destination": "research/historical/results/fixed_maps/maze/run_01/raw_agent_count_maze-32-32-4.csv",
+    "source_sha256": "85037cdea58e449832c085303432f27ef29cc12562b4064e00e034c592ca78ae",
+    "destination_sha256": "cb6d97b3e18f1f6c511043e014702010d29b1f45d6f849dfb59c5cfb5a1e7d18",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/surowe_badanie_agenci_maze-32-32-4.csv",
+    "destination": "research/historical/results/fixed_maps/maze/raw_agent_count_maze-32-32-4.csv",
+    "source_sha256": "41a5c3f2c82a6404fd76ba7d30d612360203ab51091e6bab1c6a906d8aa13d5b",
+    "destination_sha256": "903ae568b6f77673fd8d725a0fd6865e285886857cdfb4df0fe50c953580aeca",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/maze_32/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps/maze/evaluate_agents.py",
+    "source_sha256": "df89e9547d0a0a9c6e1370713ab6dd412aa6e6fb7f5caf716343104cfd1eb14b",
+    "destination_sha256": "d47003a94c2f41bed755f324917e8efcf2d1b7f160fe6c55482d4fee10bf8ccc",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/plots/badanie_agenci_room-64-64-16_makespan.png",
+    "destination": "research/historical/results/fixed_maps/room/plots/agent_count_room-64-64-16_makespan.png",
+    "source_sha256": "cd24e3cbf531bae3ce579d89cafe79374ee3cb2c50bd831ffb9c57de9e65f174",
+    "destination_sha256": "f9343918ef06ab85230927556336fa1c6b08a33d9f7499fd3918c97bcc0c3378",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/plots/badanie_agenci_room-64-64-16_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/room/plots/agent_count_room-64-64-16_success_rate.png",
+    "source_sha256": "1a71e31d9e21700ed77c5b9861d49d0cd1875c02862cab4d444421025c75b79d",
+    "destination_sha256": "461a6914e609f97ebb9845bd28b455f340180ab29ea4d9571322ddb18c6383f6",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/plots/badanie_agenci_room-64-64-16_time.png",
+    "destination": "research/historical/results/fixed_maps/room/plots/agent_count_room-64-64-16_time.png",
+    "source_sha256": "4b43f28f24328b6ed04a23643a4b456beb0fb61ff60e9cbc2a3d743758b91daf",
+    "destination_sha256": "10c27a095d9e67063d5b0dfbefe653d3b1366dc037da5c6836902943daeb42b3",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_makespan.png",
+    "destination": "research/historical/results/fixed_maps/room/run_01/plots/agent_count_room-64-64-16_makespan.png",
+    "source_sha256": "15c728e1c68876639f7b3d3010cce367ef9d7a25d4cc3bf4148b0cdc56202982",
+    "destination_sha256": "27f27b4021fff3f3db6e96912bfb0c21e423bd77251dec0eb3b38ae5c1f99702",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/room/run_01/plots/agent_count_room-64-64-16_success_rate.png",
+    "source_sha256": "fe5d3315d3fa146263055b26d132b33b44208bf4ff67eb4fca7600b989fe4c22",
+    "destination_sha256": "e4defd5d9e0a7ee892211df40f62941145eadfe5b3796a2dde990d1646032f9c",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_time.png",
+    "destination": "research/historical/results/fixed_maps/room/run_01/plots/agent_count_room-64-64-16_time.png",
+    "source_sha256": "55ef9ba6136567105db1e8cfec84bed3a0a4020d7001cf8d917f203281388e60",
+    "destination_sha256": "5d8615fdeda9f6893deb435122cd18498ecf857a94fa70223d167917af69be84",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/pomiar_1/surowe_badanie_agenci_room-64-64-16.csv",
+    "destination": "research/historical/results/fixed_maps/room/run_01/raw_agent_count_room-64-64-16.csv",
+    "source_sha256": "89f1e8edc2089f74399d0698275a074595a82d911c443bb21cd27ddb18e48469",
+    "destination_sha256": "2fc9bdf753672fe08ec86aea416daeaf55f54d340e6eb42c9c18984eab03b807",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/room-64-64-16.map",
+    "destination": "research/historical/scripts/fixed_maps/room/room-64-64-16.map",
+    "source_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "destination_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/surowe_badanie_agenci_room-64-64-16.csv",
+    "destination": "research/historical/results/fixed_maps/room/raw_agent_count_room-64-64-16.csv",
+    "source_sha256": "cad5e1e453f127170587b98ffb43da7f9398d0f5a31b8a48250758cfb88c1fd0",
+    "destination_sha256": "aabe9ff4732a778a434e32096f0d1e6d003bd3e71cf8265d16db8b8aad4c1a16",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/room_64/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps/room/evaluate_agents.py",
+    "source_sha256": "b38f2a77ba34f0669a6c6b07bcd1b453146a0f1984969d83e281d8e2080d68cb",
+    "destination_sha256": "e0f53756335c4b8d2bc03909dee9aa6e567178f68d3bc3b051e9d4a77eeefbe2",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/run_all_tests.py",
+    "destination": "research/historical/scripts/fixed_maps/run_all_tests.py",
+    "source_sha256": "ec026a2a36b1fb7f376c6cbe5ece4878d2df482fd4c332f0412c2388b35b14e4",
+    "destination_sha256": "3828264844071f2e989cbd7ed1ccf39daf894882583ce62660115330b86a4f67",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/plots/badanie_agenci_warehouse-10-20-10-2-1_makespan.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/plots/agent_count_warehouse-10-20-10-2-1_makespan.png",
+    "source_sha256": "3be82d4b9d6bc8ac52878f969e321f111ebf5b20c70b454dc237af94125705a8",
+    "destination_sha256": "dad247ac60bb352e81f854a73248cd5db7f9b2a51071bdac475452d99ff1e02c",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/plots/badanie_agenci_warehouse-10-20-10-2-1_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/plots/agent_count_warehouse-10-20-10-2-1_success_rate.png",
+    "source_sha256": "efb74c325e4d6e0f53df00ebbbd5467e232a2502bc84fd920ee6d3c54f9d6350",
+    "destination_sha256": "5f1351e376f1072166da5ee64da6799d7a929764a2db981f7e4e7770b2d28cee",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/plots/badanie_agenci_warehouse-10-20-10-2-1_time.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/plots/agent_count_warehouse-10-20-10-2-1_time.png",
+    "source_sha256": "6d8bacae5337850692d0f3a40e36fecb24b430b28bf3c090d05f780ef66a8335",
+    "destination_sha256": "ce83aabdaba800ea8fa46a81af6637c8a7731623edcc9bb90ed3bd8f913af71b",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_makespan.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_makespan.png",
+    "source_sha256": "722a75de60067c2fdb09221fed8782bc837156a91b958f5229759a81f16f5fdc",
+    "destination_sha256": "fc53332092a0728f19c737a85eba29c979ebf535e546da7b717465c484775c89",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_success_rate.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_success_rate.png",
+    "source_sha256": "5dd66f41cb1ef143f160aecc32b28eca62031ec2d87395cd4b0784c8f2e58e1b",
+    "destination_sha256": "d4437f49ffc87fb5854b6e83c90cc7db773e1c88e470e53647d8082ec22d27f6",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_time.png",
+    "destination": "research/historical/results/fixed_maps/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_time.png",
+    "source_sha256": "2d595228709459b65e2b7e113444789244206f6d7d4e0f4185fdba6c608ef133",
+    "destination_sha256": "f50f5b994e3c5eb11106190f62601be27410deebc3c02c9687e41c6803906608",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/pomiar_1/surowe_badanie_agenci_warehouse-10-20-10-2-1.csv",
+    "destination": "research/historical/results/fixed_maps/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv",
+    "source_sha256": "04be54b967b79f556e483db51af6384d4cf3bd3954f809479c586d0e1614956d",
+    "destination_sha256": "421ad4352dd17a63e9c646c8550be4af9f488a9a6e7649dd94b37872bdd957f5",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/surowe_badanie_agenci_warehouse-10-20-10-2-1.csv",
+    "destination": "research/historical/results/fixed_maps/warehouse/raw_agent_count_warehouse-10-20-10-2-1.csv",
+    "source_sha256": "8c603b4e1e28273d78f04053f5d71e4fe442d5a5ff48db38b5470fea66b9dd92",
+    "destination_sha256": "c6ebb5c6ad0409b0d9e5963883996b9d1634db491d2eaeb5c6d57b0946595460",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps/warehouse/evaluate_agents.py",
+    "source_sha256": "f08bd02697c884ab31cc9a450004e4b7626c76cfc22a08d83e031d9a3cb909a7",
+    "destination_sha256": "31fdccadfeb29552a0b161b0d3718d55584723f3eaa6b9e948352b69ee3f679f",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy/warehouse/warehouse-10-20-10-2-1.map",
+    "destination": "research/historical/scripts/fixed_maps/warehouse/warehouse-10-20-10-2-1.map",
+    "source_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "destination_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/eval_core.py",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/eval_core.py",
+    "source_sha256": "f55dd7b51deed39458833b47d5d30e92d8f6ce3502fb9be4ddf926636781f34a",
+    "destination_sha256": "1872a44112f7692d41dab4013865bf4689b3005e35d3b511c0370b9c90574f09",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/maze-32-32-4.map",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/maze/maze-32-32-4.map",
+    "source_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "destination_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/maze/evaluate_agents.py",
+    "source_sha256": "28dea2054bc77d181bc3f62fb0cc0df27f6e76c68362eb95c7edcfc9a1d07955",
+    "destination_sha256": "5f732793216a3b6255ee82f6803d854b0e7300c36b60a04e06d8832086662599",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_CLASSIC_maze_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_CLASSIC_maze_makespan.png",
+    "source_sha256": "186ad10f1d39e7cba6f42976762244e32487ff44d760eb7ad1c0368744f3bbfe",
+    "destination_sha256": "5202fdc44fc80d2458d29de269af54c17ca50791d2167174e9cae3856fc8147d",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_CLASSIC_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_CLASSIC_maze_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_CLASSIC_maze_success_rate.png",
+    "source_sha256": "bcd60c362f33a5097fedc17ecbf00d9c976255bc4db5144b0953039378bd403b",
+    "destination_sha256": "ddacfa7aa4e5e2117254400b998e397007d525675de7b59a49f3093a4cad6cd1",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_CLASSIC_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_CLASSIC_maze_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_CLASSIC_maze_time.png",
+    "source_sha256": "445aeef631204aee4745d7da244842ee3394e20693574b991ec8ab564d5cc76c",
+    "destination_sha256": "984e2ff3d294eb3cd3273449001870b39f9a1b75ffa339c529d72b6f7fee5216",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_CLASSIC_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_IMPROVMENT_maze_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_IMPROVED_maze_makespan.png",
+    "source_sha256": "8c80a226533dfcf31df404b45fc88a2fb83d91340e402f97eb2a5e17edc58edf",
+    "destination_sha256": "271971d0dd9dffcb7d683560d6f981cf9029638724e7c9f293a0a68cb72a7ffc",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_IMPROVED_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_IMPROVMENT_maze_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_IMPROVED_maze_success_rate.png",
+    "source_sha256": "7dda57a4151be17d415d00db85c2e44538d82937378454e67acbf421492037e0",
+    "destination_sha256": "b0ea5d50dbdde0925dc641bb413571013e35b10e48bb3e747424552b3be6a3fa",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_IMPROVED_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/plots/ft_vs_base_IMPROVMENT_maze_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/plots/ft_vs_base_IMPROVED_maze_time.png",
+    "source_sha256": "ad507dbb7cec55d00c1e10e34b25bc72bc01b51f652df3317f632e3e28a2fe46",
+    "destination_sha256": "097948232a4133176bfebbfd5e74ccd640e880b3e2019720e91dbdf4ae25c6a0",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_IMPROVED_maze.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/surowe_ft_vs_base_CLASSIC_maze.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_CLASSIC_maze.csv",
+    "source_sha256": "a6b04cbdb11513a2b839a3d4aa167d760218ad8ac18168c0fba3b78faa82351d",
+    "destination_sha256": "a6b04cbdb11513a2b839a3d4aa167d760218ad8ac18168c0fba3b78faa82351d",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/maze_32/wyniki_maze/surowe_ft_vs_base_IMPROVMENT_maze.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/maze/results/raw_ft_vs_base_IMPROVED_maze.csv",
+    "source_sha256": "ab3be58eef673f83fe4b10c57bad83274ee917ddb2c1687b3a30e03726b9da8c",
+    "destination_sha256": "ab3be58eef673f83fe4b10c57bad83274ee917ddb2c1687b3a30e03726b9da8c",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/room-64-64-16.map",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/room/room-64-64-16.map",
+    "source_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "destination_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/room/evaluate_agents.py",
+    "source_sha256": "e04fede814eaf85c661b1a5eaf02704f2101cc1b75a7f0d7c5f86df93535f6b5",
+    "destination_sha256": "65da342ceee2005fd2b7f6463e88f1b4dbeee089ab2ac18900ce945a0ffc78ef",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_CLASSIC_room_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_CLASSIC_room_makespan.png",
+    "source_sha256": "98153799407ca0126621947ecda99b1b6e064de0edad7af83815170f5b5ff174",
+    "destination_sha256": "74a4ab170c4c593d2b5c330e8bb005f141746a3269b09f2ae9806cc1f3f0c885",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_CLASSIC_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_CLASSIC_room_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_CLASSIC_room_success_rate.png",
+    "source_sha256": "c3f6438ff6bcccb9e2d21bf2afab4d396b769daa865ad9222bf292211172ed96",
+    "destination_sha256": "44f735c98d099e6658b2dd0cf61e0856af870de257d0a51e3750373c6ff3c133",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_CLASSIC_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_CLASSIC_room_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_CLASSIC_room_time.png",
+    "source_sha256": "62bee88ab71e42652d0e42a5254977f63f8a6cfac90690cf3cee37da2106dd0c",
+    "destination_sha256": "28956f8c48ce4b925e8da5505dd24d10b395aaa123b5b98f3ca882b47074015d",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_CLASSIC_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_IMPROVMENT_room_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_IMPROVED_room_makespan.png",
+    "source_sha256": "65587233d86b6b50fffd273600430903dc859e04587fe14f4a057ea2f6ff079a",
+    "destination_sha256": "fff598e47233841cdefbded9cbebe64a895dab80300496eeada5566919b44b20",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_IMPROVED_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_IMPROVMENT_room_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_IMPROVED_room_success_rate.png",
+    "source_sha256": "c91c51d3abcf99522f374454d629174ef66544be3481e124a4a04d39434267b0",
+    "destination_sha256": "dc810d626d7a0850fb640f7910b262c42efc72fb5449a677be68fb9e4ce6f289",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_IMPROVED_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/plots/ft_vs_base_IMPROVMENT_room_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/plots/ft_vs_base_IMPROVED_room_time.png",
+    "source_sha256": "39e43780755fa76eaa3a5c30d39b46824415392fadf1e397809eaec46014af28",
+    "destination_sha256": "2d176b7f8054cfa5da85992d2163bf6f54d73e8d644c1ce9d8bf3f3483e54df7",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_IMPROVED_room.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/surowe_ft_vs_base_CLASSIC_room.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_CLASSIC_room.csv",
+    "source_sha256": "79e69f4370f36500f812c240d0b1bb23a6f5fc9601437a4d193b8c2b6d9ba58f",
+    "destination_sha256": "79e69f4370f36500f812c240d0b1bb23a6f5fc9601437a4d193b8c2b6d9ba58f",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/room_64/wyniki_room/surowe_ft_vs_base_IMPROVMENT_room.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/room/results/raw_ft_vs_base_IMPROVED_room.csv",
+    "source_sha256": "fd72fb471e88c53d3cff021747b32863c0baa62707cb6c7c6bfce503f469c16d",
+    "destination_sha256": "fd72fb471e88c53d3cff021747b32863c0baa62707cb6c7c6bfce503f469c16d",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/run_all_tests.py",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/run_all_tests.py",
+    "source_sha256": "7d2f8a716e2f73a12d5568584fa997e66637846a628e00b70a7448d1ff835fa3",
+    "destination_sha256": "5e950a774e8da05e3493f354d23354729bb43e4e12a1939e780eb9e983ea1890",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/warehouse/evaluate_agents.py",
+    "source_sha256": "6f16d2992718d69fe255f542cf4c7b9eb0fd52c893c0847f69091cdbfd1ebda3",
+    "destination_sha256": "b914800424617def71bb91261147591f9b74561caef2d6d96e203fea58e70af0",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/warehouse-10-20-10-2-1.map",
+    "destination": "research/historical/scripts/fixed_maps_base_vs_fine_tuned/warehouse/warehouse-10-20-10-2-1.map",
+    "source_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "destination_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_CLASSIC_warehouse_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_CLASSIC_warehouse_makespan.png",
+    "source_sha256": "f74adbd93fc11f36fae7de411f0e4705c026246f5880935ac1c54a00c055722e",
+    "destination_sha256": "53b0cc71ebbad63d269b2089ac235e44b2cafefc511cf01ef2125b2ab1685511",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_CLASSIC_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_CLASSIC_warehouse_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_CLASSIC_warehouse_success_rate.png",
+    "source_sha256": "5b83a25cc2a6f82835bffaf85c109791f79d8cb7f9549c7c4b112d996a25fdf7",
+    "destination_sha256": "756cfee7a02086ac9a6f89bd28f07dd228738807435de0f7d8b5b373443980e4",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_CLASSIC_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_CLASSIC_warehouse_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_CLASSIC_warehouse_time.png",
+    "source_sha256": "43edcbf2dd8735853ca8e93f4616d972c4d03a7318744153295080626d9fe571",
+    "destination_sha256": "39e9e2498911080495cb448d1c7393285792b569d2e9148688988de2cbd4345f",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_CLASSIC_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_IMPROVMENT_warehouse_makespan.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_IMPROVED_warehouse_makespan.png",
+    "source_sha256": "820774194f6872ca2fe301b52536aa9f6af705fde58ab086ec83ff53ecabe284",
+    "destination_sha256": "11af7af42dd2cb2a66e027bbcc930cae68166326a25950cf5f3d5ff45d93f658",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_IMPROVED_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_IMPROVMENT_warehouse_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_IMPROVED_warehouse_success_rate.png",
+    "source_sha256": "ec672df5b50c75f067e40ac7398d59d0f5220a766fdb82cdb8f218910a664f69",
+    "destination_sha256": "6e6603268f23b0052a7f402dfb7c2ac6d5def490563bb5be2e8c83ce4c488838",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_IMPROVED_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/plots/ft_vs_base_IMPROVMENT_warehouse_time.png",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/plots/ft_vs_base_IMPROVED_warehouse_time.png",
+    "source_sha256": "9e4fabc2ff5b12ae9e3c20e289d32a9c0851898ac959ad1c4fb90a109e105892",
+    "destination_sha256": "6cf6e703659f3b79a3bb888a4010aefff32c109ae1fed1c0e70eaa01b02785ff",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_IMPROVED_warehouse.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/surowe_ft_vs_base_CLASSIC_warehouse.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_CLASSIC_warehouse.csv",
+    "source_sha256": "3422c347e43284252a87324bb9f4e21af7ef62458124a3b7bc6de3a68e91460d",
+    "destination_sha256": "3422c347e43284252a87324bb9f4e21af7ef62458124a3b7bc6de3a68e91460d",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_base_vs_fine_tuning/warehouse/wyniki_warehouse/surowe_ft_vs_base_IMPROVMENT_warehouse.csv",
+    "destination": "research/historical/results/fixed_maps_base_vs_fine_tuned/warehouse/results/raw_ft_vs_base_IMPROVED_warehouse.csv",
+    "source_sha256": "9cd299b8857895602e46fd9ad0125c805a378943a6d9e2faba0d6e88c113f6bd",
+    "destination_sha256": "9cd299b8857895602e46fd9ad0125c805a378943a6d9e2faba0d6e88c113f6bd",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/eval_core.py",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/eval_core.py",
+    "source_sha256": "4a69a4cb7595c15ef7e853ef41d22250608b64c4bd887ad6194eb906ff058f5e",
+    "destination_sha256": "20b6664d80264fc4bca75f03c02c7518c9d239b8c58573377f5c3cd704e1b68d",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/maze-32-32-4.map",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/maze/maze-32-32-4.map",
+    "source_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "destination_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_makespan.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/plots/agent_count_maze-32-32-4_makespan.png",
+    "source_sha256": "0dc15cb6e29121e8a13e2dcbe6fb4271f5461a4e186d4f3aa7279cba54b83c2b",
+    "destination_sha256": "65c41755ed5a3575b27e41a75273d2e3baff656e01ac371c326de5a009fa3bc8",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/plots/agent_count_maze-32-32-4_success_rate.png",
+    "source_sha256": "af1697763f764588b289275b39a99bec98cda26fc4d2dec1cda5370e8664e2fc",
+    "destination_sha256": "20113d4a05f73d417dd699aeb3b698cd2c2b326a5b83332058b7cfb899db5e55",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/pomiar_1/plots/badanie_agenci_maze-32-32-4_time.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/plots/agent_count_maze-32-32-4_time.png",
+    "source_sha256": "2016a1c5b289c7de01883b8f5c85415bc87eed5e8ad241db1fbba5be8b444d47",
+    "destination_sha256": "bc36a57dd98be74664aeec017ac7c09849191f8371772e5f6401e64d136a1ddf",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/raw_agent_count_maze-32-32-4.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/pomiar_1/surowe_badanie_agenci_maze-32-32-4.csv",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/maze/run_01/raw_agent_count_maze-32-32-4.csv",
+    "source_sha256": "8b5815451cd14f21f937760f83995410ad7d04ad353592a0abf3ea99ce91da7b",
+    "destination_sha256": "7d632e24a142ec4eacc739e055ac21482c3556768b57964bfed52ab90b740265",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/maze_32/test_agenci.py",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/maze/evaluate_agents.py",
+    "source_sha256": "9ac3a0797ee36e36ed401d04110732b929c9a187a40b28b3dbe241155b9c225e",
+    "destination_sha256": "77f04bf01777d2afd8902434d103458e7ad87613971ab255e2947f8204b02de1",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_makespan.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/room/run_01/plots/agent_count_room-64-64-16_makespan.png",
+    "source_sha256": "5b5ae52c401e34b8b1d900b3bfa30f3386744c138125082e18aae17f8af5a297",
+    "destination_sha256": "327e0200b9f4650091d608ba709810cd66f6562463e83f9989f6cb4b956e80f0",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/room/run_01/plots/agent_count_room-64-64-16_success_rate.png",
+    "source_sha256": "87d297fdf334d43226f480c6e011f09ed99323937e20b769091258bc3ddec768",
+    "destination_sha256": "e475a7ff34bdd9c5be45dc5ef829e5c290b528c19a204cb0f19358346c4a5ae8",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/pomiar_1/plots/badanie_agenci_room-64-64-16_time.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/room/run_01/plots/agent_count_room-64-64-16_time.png",
+    "source_sha256": "02cbf3b2f67f88b95fac0108df41fabc55e9c92484cc6485532ceab245045313",
+    "destination_sha256": "ab894cac4c374ad0bbd682c97513f30b781b9fdf699441fc0cc9853e11b2468a",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/room/run_01/raw_agent_count_room-64-64-16.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/pomiar_1/surowe_badanie_agenci_room-64-64-16.csv",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/room/run_01/raw_agent_count_room-64-64-16.csv",
+    "source_sha256": "43bbf01302190de41a9d186b9b2dfec3b24c586d0784800092e2a8eec900cde5",
+    "destination_sha256": "5e8a5a0988a358664b5a9b0f4dcd989d6c83bbdd4b0e2e27df67b30347063a70",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/room-64-64-16.map",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/room/room-64-64-16.map",
+    "source_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "destination_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/room_64/test_agenci_room.py",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/room/evaluate_room.py",
+    "source_sha256": "e26550b8ca549008498cfe9fa8585e54745a7db6ce1b125648c2bd3936960864",
+    "destination_sha256": "7f58484ef9980dd1ab33bfa893c1c56e6a8545af1a83ceee6ef9cbea3c9e5d5c",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/run_all_tests.py",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/run_all_tests.py",
+    "source_sha256": "338f3d5d06038ed8405341390655f11a7b44c46b3efe4275d313af90c769feca",
+    "destination_sha256": "09f64fe767d68171f3d863a987a9a1a7009847a6b8c39d809caeeedbaef4ee2b",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_makespan.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_makespan.png",
+    "source_sha256": "01d63941f46fdc741a823e018280ed88b68f4360c20f218e1193872bf2f5ab3a",
+    "destination_sha256": "9293fa3671da67a75152d39ec2d13ed3b3048eeb47f46b96e9e92d5e3862322e",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_success_rate.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_success_rate.png",
+    "source_sha256": "81114da0d21c6b618b5895bceb7833ab381030df347ef07008b97040a20ac930",
+    "destination_sha256": "2351d1725b4098a0c9f3956fad6639e413581dc1699747202a4b1842ab09665c",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/pomiar_1/plots/badanie_agenci_warehouse-10-20-10-2-1_time.png",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/plots/agent_count_warehouse-10-20-10-2-1_time.png",
+    "source_sha256": "3f7bd73bee29bfc96dcae76321e57146cccee17b5ac7b39383d97b1a09bc999e",
+    "destination_sha256": "4a6b6da2166f7c324c453dda8bdca38a5889884f845c0619b8ea2476916ea10f",
+    "transformation": "English figure regenerated from archived measurements",
+    "data_file": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/pomiar_1/surowe_badanie_agenci_warehouse-10-20-10-2-1.csv",
+    "destination": "research/historical/results/fixed_maps_fine_tuned/warehouse/run_01/raw_agent_count_warehouse-10-20-10-2-1.csv",
+    "source_sha256": "b7c0de68b9902bebda69fd9d3a8cc58949bb33f1ab575fee9dbf1c1e682da2b3",
+    "destination_sha256": "fd075ba3ee91c8a134acefdadbe9a0c2bb13fedcb2273bbe1045bcdad16cef16",
+    "transformation": "algorithm labels translated"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/test_agenci_warehouse.py",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/warehouse/evaluate_warehouse.py",
+    "source_sha256": "ee4b46729c7594efd973d44830babb60cd2ce93a604b7e80f3a93a38fb32935c",
+    "destination_sha256": "c071aba2f66ff40a17185f3a17fec77da5daceeadda26ed08157dfd254598b5c",
+    "transformation": "English names and text; project-relative imports and checkpoint paths"
+  },
+  {
+    "source": "primal_improvment/testy/stale_mapy_fine_tuning/warehouse/warehouse-10-20-10-2-1.map",
+    "destination": "research/historical/scripts/fixed_maps_fine_tuned/warehouse/warehouse-10-20-10-2-1.map",
+    "source_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "destination_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+    "transformation": "unchanged contents"
+  },
+  {
+    "source": "primal_improvment/fine-tuning/PRIMAL_IMPROVMENT/maze/maze_32_32_fitting_2.png",
+    "destination": "research/fine_tuning/improved/maze/training_rewards_02.png",
+    "source_sha256": "2a6a5a4cfbcf45093d0020e2bb60f62753ae4c25c7597824b136a439aa497d82",
+    "destination_sha256": "2a6a5a4cfbcf45093d0020e2bb60f62753ae4c25c7597824b136a439aa497d82",
+    "transformation": "renamed; unchanged contents"
+  },
+  {
+    "source": "primal_improvment/fine-tuning/PRIMAL_IMPROVMENT/maze/maze_32_32_fitting.png",
+    "destination": "research/fine_tuning/improved/maze/training_rewards_01.png",
+    "source_sha256": "bbd93213abb134647a8689458bd0e6dfec5c35d735e42cea2ae4ba1a4ed7a59e",
+    "destination_sha256": "bbd93213abb134647a8689458bd0e6dfec5c35d735e42cea2ae4ba1a4ed7a59e",
+    "transformation": "renamed; unchanged contents"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "provider": "Moving AI Lab, Nathan Sturtevant",
+  "source_page": "https://movingai.com/benchmarks/mapf/",
+  "license": "ODC-By 1.0",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+  "files": [
+    {
+      "file": "maze-32-32-4.map",
+      "url": "https://movingai.com/benchmarks/mapf/maze-32-32-4.map.zip",
+      "local_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+      "upstream_sha256": "7ff67aa59f71933b8cf2605e12631b8a28d9ebcfb9b941de3afdc7dce3123fee",
+      "bytes_equal": true,
+      "normalized_lines_equal": true
+    },
+    {
+      "file": "room-64-64-16.map",
+      "url": "https://movingai.com/benchmarks/mapf/room-64-64-16.map.zip",
+      "local_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+      "upstream_sha256": "983df5c9bf0c59799daa107feb1b2d3ed81c5d32bf4b23d019f06161d0be6092",
+      "bytes_equal": true,
+      "normalized_lines_equal": true
+    },
+    {
+      "file": "warehouse-10-20-10-2-1.map",
+      "url": "https://movingai.com/benchmarks/mapf/warehouse-10-20-10-2-1.map.zip",
+      "local_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+      "upstream_sha256": "c8d1b2f24788ed6bd1ccf45065b96b4ce82d65f88c72de750e03e2758637bff0",
+      "bytes_equal": true,
+      "normalized_lines_equal": true
+    }
+  ]
+}

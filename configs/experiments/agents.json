@@ -1,0 +1,38 @@
+{
+  "seed": 123,
+  "agents": 4,
+  "size": [
+    30,
+    30
+  ],
+  "density": 0.1,
+  "episodes": 20,
+  "max_steps": 500,
+  "torch_threads": 1,
+  "models": {
+    "classic": "checkpoints/base/classic.pt",
+    "improved": "checkpoints/base/improved.pt"
+  },
+  "solvers": [
+    "pibt"
+  ],
+  "solver_timeout": 10,
+  "greedy": false,
+  "scenarios": [
+    {
+      "agents": 4
+    },
+    {
+      "agents": 8
+    },
+    {
+      "agents": 16
+    },
+    {
+      "agents": 32
+    }
+  ],
+  "output": "results/eval_agents",
+  "execution": "joint",
+  "environment_profile": "common"
+}

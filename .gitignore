@@ -1,0 +1,63 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Packaging and native build artifacts
+*.egg-info/
+build/
+dist/
+.eggs/
+*.so
+*.dylib
+*.dll
+*.pyd
+*.o
+*.obj
+*.a
+
+# Local model weights and temporary checkpoint saves
+*.pt
+*.pth
+*.ckpt
+checkpoint.tmp
+
+# New run outputs; historical research results remain tracked
+/results/*
+!/results/README.md
+/runs/
+/wandb/
+*.log
+events.out.tfevents.*
+
+# Generated animations
+*.mp4
+*.gif
+# Curated policy demonstrations embedded in the README
+!/docs/animations/**/*.gif
+!/docs/animations/**/*.mp4
+
+# Local tool settings and credentials
+/.aws/
+/.codex/
+/.agents/
+
+# Local secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

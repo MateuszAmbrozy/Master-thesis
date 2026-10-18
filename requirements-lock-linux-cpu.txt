@@ -1,0 +1,29 @@
+# Full dependency snapshot from the isolated Linux x86_64 / Python 3.12 validation environment.
+# Install with: python -m pip install -r requirements-lock-linux-cpu.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+cloudpickle==3.1.2
+contourpy==1.4.0
+cycler==0.12.1
+Farama-Notifications==0.0.6
+filelock==4.2.0
+fonttools==4.67.0
+fsspec==2026.9.0
+gymnasium==1.4.0
+Jinja2==3.1.6
+kiwisolver==1.5.1
+MarkupSafe==3.0.4
+matplotlib==3.11.2
+mpmath==1.3.0
+networkx==3.7
+numpy==2.5.4
+packaging==26.3
+pandas==3.0.6
+pillow==12.3.0
+pybind11==3.1.0
+pyparsing==3.3.3
+python-dateutil==2.9.0.post0
+setuptools==84.0.0
+six==1.17.0
+sympy==1.14.0
+torch==2.14.1+cpu
+typing_extensions==4.16.0

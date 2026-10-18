@@ -1,0 +1,34 @@
+{
+  "seed": 123,
+  "agents": 4,
+  "map": "maps/warehouse-10-20-10-2-1.map",
+  "episodes": 20,
+  "max_steps": 500,
+  "torch_threads": 1,
+  "greedy": false,
+  "solvers": [
+    "pibt"
+  ],
+  "solver_timeout": 10,
+  "execution": "joint",
+  "environment_profile": "common",
+  "scenarios": [
+    {
+      "agents": 4
+    },
+    {
+      "agents": 8
+    },
+    {
+      "agents": 16
+    },
+    {
+      "agents": 32
+    }
+  ],
+  "output": "results/fixed_maps/warehouse/eval_scratch",
+  "models": {
+    "classic": "results/fixed_maps/warehouse/train_classic/checkpoint.pt",
+    "improved": "results/fixed_maps/warehouse/train_improved/checkpoint.pt"
+  }
+}

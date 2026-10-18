@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "agents": 4,
+  "size": [
+    15,
+    15
+  ],
+  "density": 0.1,
+  "episodes": 10000,
+  "max_steps": 256,
+  "update_steps": 32,
+  "learning_rate": 2e-05,
+  "gamma": 0.95,
+  "entropy_beta": 0.03,
+  "value_beta": 0.5,
+  "valid_beta": 0.5,
+  "blocking_beta": 0.5,
+  "grad_clip": 10,
+  "success_reward": 20,
+  "demonstration_prob": 0.5,
+  "expert": "pibt",
+  "expert_timeout": 10,
+  "save_every": 100,
+  "torch_threads": 1,
+  "variant": "classic",
+  "output": "results/train_classic",
+  "execution": "joint",
+  "environment_profile": "common"
+}

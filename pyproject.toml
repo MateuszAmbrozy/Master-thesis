@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "primal-mapf"
+version = "0.2.0"
+description = "Training and evaluation of classic and communication-based PRIMAL"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md", "third_party/licenses/*.txt"]
+authors = [{name = "Mateusz Ambroży"}]
+requires-python = ">=3.11"
+dependencies = ["torch>=2.5,<3", "numpy>=1.26,<3", "gymnasium>=1,<2"]
+
+[project.optional-dependencies]
+native = ["pybind11>=2.13,<4"]
+research = ["matplotlib>=3.8,<4", "pandas>=2,<4"]
+visualization = ["pillow>=10,<13"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

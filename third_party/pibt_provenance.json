@@ -1,0 +1,29 @@
+{
+  "repository": "https://github.com/Kei18/pypibt",
+  "commit": "a3c97f60413c6619a29a5022969896bc54877edc",
+  "license_url": "https://raw.githubusercontent.com/Kei18/pypibt/a3c97f60413c6619a29a5022969896bc54877edc/LICENCE.txt",
+  "files": [
+    {
+      "file": "pibt.py",
+      "url": "https://raw.githubusercontent.com/Kei18/pypibt/a3c97f60413c6619a29a5022969896bc54877edc/src/pypibt/pibt.py",
+      "upstream_sha256": "b0ee3993147a12ec714217734dc0f27543b75521e60ed92d4d0b2b492e9de774",
+      "local_sha256": "b0ee3993147a12ec714217734dc0f27543b75521e60ed92d4d0b2b492e9de774",
+      "ast_equal": true
+    },
+    {
+      "file": "dist_table.py",
+      "url": "https://raw.githubusercontent.com/Kei18/pypibt/a3c97f60413c6619a29a5022969896bc54877edc/src/pypibt/dist_table.py",
+      "upstream_sha256": "512624fced2b778502ad90e7807fe5d66a2f92bd4bd151e88c8550c2332a847f",
+      "local_sha256": "512624fced2b778502ad90e7807fe5d66a2f92bd4bd151e88c8550c2332a847f",
+      "ast_equal": true
+    },
+    {
+      "file": "mapf_utils.py",
+      "url": "https://raw.githubusercontent.com/Kei18/pypibt/a3c97f60413c6619a29a5022969896bc54877edc/src/pypibt/mapf_utils.py",
+      "upstream_sha256": "79ff17f83926ed6e5cf16d2974f64d64b58e4e2e93ac7f2c0359ed582295b68a",
+      "local_sha256": "79ff17f83926ed6e5cf16d2974f64d64b58e4e2e93ac7f2c0359ed582295b68a",
+      "ast_equal": true
+    }
+  ],
+  "license_sha256": "8a217ae671a3c07b3628c4f94904400071cdaf8eb07faa9dee1d54723f0c74bc"
+}

@@ -1,0 +1,34 @@
+{
+  "seed": 123,
+  "agents": 4,
+  "map": "maps/room-64-64-16.map",
+  "episodes": 20,
+  "max_steps": 500,
+  "torch_threads": 1,
+  "greedy": false,
+  "solvers": [
+    "pibt"
+  ],
+  "solver_timeout": 10,
+  "execution": "joint",
+  "environment_profile": "common",
+  "scenarios": [
+    {
+      "agents": 4
+    },
+    {
+      "agents": 8
+    },
+    {
+      "agents": 16
+    },
+    {
+      "agents": 32
+    }
+  ],
+  "output": "results/fixed_maps/room/eval_base",
+  "models": {
+    "classic": "checkpoints/base/classic.pt",
+    "improved": "checkpoints/base/improved.pt"
+  }
+}

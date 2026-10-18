@@ -1,0 +1,28 @@
+import sys
+import os
+
+current_file_path = os.path.dirname(os.path.abspath(__file__))
+RANDOM_ROOT = os.path.dirname(current_file_path)
+sys.path.append(RANDOM_ROOT)
+
+import eval_core
+
+if __name__ == "__main__":        
+    custom_map_path = "maze-32-32-4.map"
+    MODELS_BASE = str(eval_core.PROJECT_ROOT / "checkpoints")
+   
+   
+    CHECKPOINT_CLASSIC = os.path.join(MODELS_BASE, "fine_tuned", "classic", "maze.pt")
+    CHECKPOINT_CURRENT = os.path.join(MODELS_BASE, "fine_tuned", "improved", "maze.pt")
+    map_name = os.path.splitext(os.path.basename(custom_map_path))[0]
+    generated_test_name = f"agent_count_{map_name}"
+
+eval_core.run_evaluation(
+        test_name=generated_test_name,
+        param_name="agents",
+        param_values=[4, 8, 16, 32],
+        custom_map_path=custom_map_path,
+        model_current_path=CHECKPOINT_CURRENT, 
+        model_classic_path=CHECKPOINT_CLASSIC, 
+        num_episodes=20
+    )
